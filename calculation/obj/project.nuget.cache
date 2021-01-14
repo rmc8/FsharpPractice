@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lmuii9XxCtZ4Dk0eqZQr3xOUvX/yuPXzU4L6ylQ56/Ycsioa18gduHvb0xCpOfpNxr3TtUiZy8iXSkxHjGOiaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mikohei\\RiderProjects\\ConsoleApp3\\calculation\\calculation.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikohei\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

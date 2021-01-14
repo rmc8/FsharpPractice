@@ -2,6 +2,12 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.fsproj", "{8D8B27AF-08BC-4F51-85F7-B43F4942321F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fxpg_fsharp", "fxpg_fsharp", "{597A1A4B-5BD5-4DAF-AE57-BFB2469F5C23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "basic", "basic", "{EE41A6E7-7587-45A9-9B2A-EDD2426B7C2A}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "calculation", "calculation\calculation.fsproj", "{4F6436BB-2CD0-4337-9BA8-1FCAC3794987}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +18,13 @@ Global
 		{8D8B27AF-08BC-4F51-85F7-B43F4942321F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D8B27AF-08BC-4F51-85F7-B43F4942321F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D8B27AF-08BC-4F51-85F7-B43F4942321F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F6436BB-2CD0-4337-9BA8-1FCAC3794987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6436BB-2CD0-4337-9BA8-1FCAC3794987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6436BB-2CD0-4337-9BA8-1FCAC3794987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6436BB-2CD0-4337-9BA8-1FCAC3794987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EE41A6E7-7587-45A9-9B2A-EDD2426B7C2A} = {597A1A4B-5BD5-4DAF-AE57-BFB2469F5C23}
+		{4F6436BB-2CD0-4337-9BA8-1FCAC3794987} = {EE41A6E7-7587-45A9-9B2A-EDD2426B7C2A}
 	EndGlobalSection
 EndGlobal
