@@ -6,9 +6,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fxpg_fsharp", "fxpg_fsharp"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "basic", "basic", "{EE41A6E7-7587-45A9-9B2A-EDD2426B7C2A}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "n02_calculation", "n02_calculation\n02_calculation.fsproj", "{4F6436BB-2CD0-4337-9BA8-1FCAC3794987}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "n01_calculation", "n01_calculation\n01_calculation.fsproj", "{4F6436BB-2CD0-4337-9BA8-1FCAC3794987}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "n03_math_fx", "n03_math_fx\n03_math_fx.fsproj", "{72805EC2-9327-47E6-BEEC-0B290BFCF30B}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "n02_math_fx", "n02_math_fx\n02_math_fx.fsproj", "{72805EC2-9327-47E6-BEEC-0B290BFCF30B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

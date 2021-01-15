@@ -94,11 +94,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikohei\\RiderProjects\\ConsoleApp3\\n03_math_fx\\n03_math_fx.fsproj",
-      "projectName": "n03_math_fx",
-      "projectPath": "C:\\Users\\mikohei\\RiderProjects\\ConsoleApp3\\n03_math_fx\\n03_math_fx.fsproj",
+      "projectUniqueName": "C:\\Users\\mikohei\\RiderProjects\\ConsoleApp3\\n02_math_fx\\n02_math_fx.fsproj",
+      "projectName": "n02_math_fx",
+      "projectPath": "C:\\Users\\mikohei\\RiderProjects\\ConsoleApp3\\n02_math_fx\\n02_math_fx.fsproj",
       "packagesPath": "C:\\Users\\mikohei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikohei\\RiderProjects\\ConsoleApp3\\n03_math_fx\\obj\\",
+      "outputPath": "C:\\Users\\mikohei\\RiderProjects\\ConsoleApp3\\n02_math_fx\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mikohei\\AppData\\Roaming\\NuGet\\NuGet.Config",
