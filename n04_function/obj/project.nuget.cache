@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0vod8yMpjsBw+pzkQr/VQNR4M0OHQk7poADZeiM6fPJWC4QNWNgQd3qpTdss4pLVzDFYuHgnYOqroAnFjebzxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mikohei\\RiderProjects\\ConsoleApp3\\n04_function\\n04_function.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikohei\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
