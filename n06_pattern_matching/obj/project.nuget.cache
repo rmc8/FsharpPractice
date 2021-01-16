@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nQ9uoZ+Xw6kQeyi4x21dcpLO0lUY6E0Bd94UWmQRBybmkfglUxCn3tFA8OjsVyCl2qSRj04x6UG9ASGwa+hWow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mikohei\\RiderProjects\\ConsoleApp3\\n06_pattern_matching\\n06_pattern_matching.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikohei\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
