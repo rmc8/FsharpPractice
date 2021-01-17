@@ -7,7 +7,6 @@ let Lsquare (lnum: int list) =
     let lsnum = List.map square lnum
     printfn "num^2 = %A" lsnum
 
-
 let num = [ 1 .. 10 ]
 Lsquare num
 
