@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VFWEjsEMBpFF4+kWmLY6l/Wx9mD8A+1o8KAC49AcZUzU5/0+Qjv2VC9uQaYgVzXohY+SuNpIhTT3suv4BSIjPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mikohei\\RiderProjects\\ConsoleApp3\\n02_higher_order_function\\n02_higher_order_function.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikohei\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
