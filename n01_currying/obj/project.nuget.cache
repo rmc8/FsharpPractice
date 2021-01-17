@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M0uCuJRTZQ7JlAVMPhIzMfVxPg8JJwi9lTlZQjo2UxlerJEVpQWhv2/Yx7CxDM2ZK5FXLndh3zXI7MkJMd26iA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mikohei\\RiderProjects\\ConsoleApp3\\n01_currying\\n01_currying.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikohei\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
